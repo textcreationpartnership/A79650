@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of prayers and thanksgivings, used in His Majesties chappel, and in his armies. Vpon occasion of the late victories against the rebells, and for the future successe of the forces. Published by His Maiesties command, to be duly read in all other churches and chappels within this his kingdome, and dominion of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79650</idno>
+            <idno type="STC">Wing C4094C</idno>
+            <idno type="STC">Thomason E69_6</idno>
+            <idno type="STC">ESTC R21029</idno>
+            <idno type="EEBO-CITATION">99869101</idno>
+            <idno type="PROQUEST">99869101</idno>
+            <idno type="VID">155424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155424)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E69[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of prayers and thanksgivings, used in His Majesties chappel, and in his armies. Vpon occasion of the late victories against the rebells, and for the future successe of the forces. Published by His Maiesties command, to be duly read in all other churches and chappels within this his kingdome, and dominion of Wales.</title>
+                  <author>Duppa, Brian, 1588-1662, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield, printer to the University,</publisher>
+                  <pubPlace>Printed at Oxford [i.e. London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The writer of these prayers was probably dr. Brian Duppa, bp. of Salisbury, according to a manuscript note in Two Prayers .. (Oxf. 1644) in Linc.C.8.23 in the Bodleian." --Madan 1450.</note>
+                  <note>The imprint is false "This is a London counterfeit" Cf. Madan 1452.</note>
+                  <note>Annotation on Thomason copy: "Sept: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155424:1" rendition="simple:additions"/>
+            <p>
+               <hi>A COLLECTION</hi> OF PRAYERS AND THANKSGIVINGS, <hi>VSED IN HJS MAJESTIES</hi> Chappel, and in His ARMIES.</p>
+            <p>Vpon occaſion of the late Victories a<g ref="char:EOLhyphen"/>gainſt the Rebells, and for the future ſuc<g ref="char:EOLhyphen"/>ceſſe of the Forces.</p>
+            <p>PVBLISHED By His MAIESTIES Command, to be duly read in all other Churches and Chappels within this his King<g ref="char:EOLhyphen"/>dome, and Dominion of WALES.</p>
+            <p>Printed at <hi>OXFORD,</hi> By LEONARD LICHFIELD, Printer to the Univerſity. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:155424:2"/>
+            <pb n="1" facs="tcp:155424:2"/>
+            <head>A PRAYER FOR THE PRESERVATION Of His MAJESTIES Perſon, and for the Peace <hi>of the Kingdome.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord guard the Perſon of thy Servant the King.</p>
+            <p>
+               <hi>Who putteth His truſt in Thee.</hi>
+            </p>
+            <p>Send to Him and to His Ar<g ref="char:EOLhyphen"/>mies help from thy holy Place.</p>
+            <p>
+               <hi>And evermore mightily defend them.</hi>
+            </p>
+            <p>Confound the deſignes of all thoſe that are riſen up againſt Him.</p>
+            <p>
+               <hi>And let not their rebellious wickedneſſe approach neere to hurt Him.</hi>
+            </p>
+            <p>O Lord heare our Prayer.</p>
+            <p>
+               <hi>And let our cry come unto Thee.</hi>
+            </p>
+            <pb n="2" facs="tcp:155424:3"/>
+            <p>O Lord God of Hoſts who giveſt victory unto Kings, and didſt deliver <hi>David</hi> thy Servant from the pecill of the Sword, heare us, we beſeech thee, moſt miſerable ſin<g ref="char:EOLhyphen"/>ners, who doe here powre out our ſoules before thee, entirely deſiring the protection of thine hand upon thy Servant the King: let Him finde ſafety under the ſhadow of thy wings, and pre<g ref="char:EOLhyphen"/>ſerve his Perſon as the apple of thine owne eye. Suffer not that ſword which thou haſt put into his hands to be wreſted out by the hand of man: but bleſſe his Counſels with ſucceſſe, and his enterpriſes with victory, that he may goe on to be a terror to all thoſe that oppoſe him; and to be as the dew of the latter raine upon the hearts of all thoſe who doe ſtill remain Loyall to him. And O thou who takeſt no delight in the miſery of one ſingle ſinner, ſpare mercifull Lord, ſpare a great, though moſt ſinfull Nation, pitty a de<g ref="char:EOLhyphen"/>ſpiſed Church, and a diſtracted State, heale up thoſe wounds which our ſinnes have made ſo wide, that none but thine owne hands can cloſe them. And in the tenderneſſe of thine unſpea<g ref="char:EOLhyphen"/>kable compaſſion haſten to put ſo happy an end unto theſe waſting diviſions, that thy ſervice may be the more duly celebrated, thine Annoynted more conſcientiouſly obayed, that the Church may be reſtored to a true Chriſtian unity, and the Kingdom to our former Peace, and that for his ſake who is the Prince of Peace, and that ſhed his <pb n="3" facs="tcp:155424:3"/>pretious bloud to purchaſe our Peace, even Jeſus Chriſt our Lord, to whom with thee O Father &amp; the bleſſed Spirit be &amp;c.</p>
+         </div>
+         <div type="prayer">
+            <head>A PRAYER OF THANKS<g ref="char:EOLhyphen"/>giving for His MAJESTIES Victory over the Rebells at Edge-hill.</head>
+            <p>O Thou God of Hoſts, who goeſt forth with our Armies, and pleadeſt the cauſe of thine Anoynted againſt them that
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trive with him, We acknowledge with all lowlineſſe of mind, that it is not our ſword, nor the multitude or Our Hoſt that hath ſaved us, but it is thy hand alone that hath diſpoſed of Victory to thy ſervant the King, that hath co<g ref="char:EOLhyphen"/>vered His head in the day of Battaile, and hath kept His Crowne from being thrown down to the ground: Not unto us therefore, not unto us, but unto thee, O God, do We give the praiſe, beſeeching thee to accompliſh the great work thou haſt begunne for us, to continue the bleſ<g ref="char:EOLhyphen"/>ſings of good ſucceſſe on the head of our Sove<g ref="char:EOLhyphen"/>raigne, and on His Army, that the happineſſe thereof may flow from thence to the very skirts <pb n="4" facs="tcp:155424:4"/>of His People; to continue the fear and conſter<g ref="char:EOLhyphen"/>nation which thou haſt already caſt upon the Hearts of thoſe who have Rebelliouſly riſen up againſt Him, to enfeeble their ſtrength, to infa<g ref="char:EOLhyphen"/>tuate their Counſels, to undeceive and diſabuſe the ſeduced part of them, that they may know and feele, that to take up Armes againſt thy Vice<g ref="char:EOLhyphen"/>gerent, is to fight againſt heaven, that ſo by a timely and conſcientious ſubmiſſion to the juſt Authority of him whom thou haſt ſet over them, the effuſion of more blood may be prevented, the Peace of this diſtracted Kingdom ſetled, Faction may be caſt out of the State, and Schiſme out of the Church, to the advancement of thy glory, the Kings honour, and the Peoples good. Grant this, O God, for thy old mercies ſake, which thou wert wont to ſhow unto this Nation, that both Prince and People may joyne in giving praiſe to thee, who liveſt and raigneſt world without end. AMEN.</p>
+         </div>
+         <div type="prayer">
+            <pb n="5" facs="tcp:155424:4"/>
+            <head>A thankſgiving for His Majeſties late great Victory over the Re<g ref="char:EOLhyphen"/>bels in the NORTH.</head>
+            <p>O MOST Mighty God, whoſe dwelling is above the heavens, yet humbleſt thy ſelf to diſpoſe of all things done either in heaven or earth, who in thy unſearchable judgements haſt ſuffered the
+<hi>Sheba's</hi> of theſe times to blow the Trumpet of Rebellion in every corner of this Land, but withall haſt juſtly turned this ſufferance of thine into their Ruine; We praiſe and magnify thy great and glorious Name, that having given of late to thine Anoynted ſo many pledges of thy Favour, thou haſt yet added to that heap of bleſſings a New and Notable Vi<g ref="char:EOLhyphen"/>ctory over the Rebels in the North; Goe on, O thou God of our Salvation, goe on, as thou haſt begun; leave us not, we beſeech thee, till thou haſt accompliſhed the great work thou haſt ſo apparently taken into thine own hands; Paſſe by our perſonall ſins, O Lord, though they cry loud, hear them not, but look to the Righteouſneſſe of our Cauſe; See the ſeamleſſe Coat of thy Sonne torne, the Throne of thine Anointed trampled on, thy Church invaded by Sacriledge, and thy peo<g ref="char:EOLhyphen"/>ple
+<pb n="6" facs="tcp:155424:5"/>miſerably deceived with Lies. See it, O God, (as ſee it thou doſt) and vindicate what thou ſeeſt upon the heads of thoſe who lead theſe wretches to deſtruction, till by their frequent overthrows (if nothing elſe can poſſibly reduce them) thou haſt ſcourged them into obedience, &amp; tamed theſe Enemies of thine and ours into a deſire of peace, that ſo having at laſt ſubdued their hearts (which is the beſt of Victories) thy <hi>David</hi> may return to his <hi>Ieruſalem</hi> in peace, and thy people once more joy under his Government, bleſſing thy goodnes which hath wrought this for us through the Me<g ref="char:EOLhyphen"/>diation of thy Son Jeſus Chriſt, to whom with thee, and thy bleſſed Spirit, be all praiſe, and glo<g ref="char:EOLhyphen"/>ry world without end. AMEN.</p>
+         </div>
+         <div type="prayer">
+            <head>A Thankſgiving for His Majeſties late great Victory over the Rebels in the VVeſt.</head>
+            <p>O Moſt Glorious and Powerfull Lord God, without whoſe aid<g ref="char:punc">▪</g> and influ<g ref="char:EOLhyphen"/>ence all our ſtrength is weakneſſe, and our counſell folly: we thy unworthy Servants in a gratefull commemoration of thy frequent and often repeated bleſſings, with humble and unfai<g ref="char:EOLhyphen"/>ned hearts offer up to thee the ſacrifice of prayſe, calling Heaven and Earth to witneſſe with us, that <pb n="7" facs="tcp:155424:5"/>it is thy Power alone by which we ſtand, thy Strength by which we proſper. Particularly we magnifie thy holy Name, O God, for that late great Victory, wherewith thou haſt graciouſly bl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt our Sove<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aignes Forces in the Weſt, where thou gaveſt not the day to the ſtrong, nor meaſu<g ref="char:EOLhyphen"/>redſt out ſucceſſe according to the numbers, but madeſt the weak chaſe the mighty, and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n hand<g ref="char:EOLhyphen"/>full overthrow an hoaſt; ſhewing by a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evident teſtimony or thy preſence, that the Arme of Fleſh ſtrives in vain, when the Arm of God doth fight the battaile. In purſuance of this thy unſpeakable goodneſſe, we humbly beg of thee, O Lord, to continue in all our dangers the like ſpeciall aſſi<g ref="char:EOLhyphen"/>ſtance to us, to break the ſpeare of the Diſobedi<g ref="char:EOLhyphen"/>ent, and melt the hearts of the Rebellious into wa<g ref="char:EOLhyphen"/>ter, to ſtrike the minds of the perverſe, with a true touch of that Conſcience, which they goe about to ſtifle, and a true ſenſe of that duty to thine A<g ref="char:EOLhyphen"/>noynted, which they labour to forget, that we thy miſerable and diſtreſſed people, may no longer groan under thoſe heavy Judgements, which our ſins have pulled down upon us, but may at laſt be reunited and knit in the happineſſe of a long wiſht for peace, and with one mind, in the ſame true Re<g ref="char:EOLhyphen"/>ligion, worſhip thee the onely true God, and obey our King whom thou haſt ſet over us: grant this, O mercifull Father for thy deare Sons ſake who raigneth with thee, and thy holy Spirit world without end. AMEN.</p>
+         </div>
+         <div type="prayer">
+            <pb n="8" facs="tcp:155424:6"/>
+            <head>A thanſgiving for the Queenes Safe Returne.</head>
+            <p>O MOST mercifull Lord God, we farther render thee all Praiſe and thankes, for that thou haſt been pleaſed to extend thy hand of deliverance unto the Perſon of our gratious Queene; that thou haſt made her an in<g ref="char:EOLhyphen"/>ſtrument of ſo much good to this Kingdom, and brought her ſafely hither, through ſo many dan<g ref="char:EOLhyphen"/>gers both by Sea and Land. Lord make the King and his people daily more and more happy in her, that as by thine eſpecially favour ſhe is already become the Mother of ſo many hopefull Princes, ſo ſhe may be daily fruitfull in the addition of more bleſſings to us, through Jeſus Chriſt our Lord, to whom with thee, and the Holy Ghoſt, be all Honour and Glory, world without end. AMEN.</p>
+         </div>
+         <div type="prayer">
+            <head>A hymne or generall thankſgiving.</head>
+            <p>GLORY be to God on high, and in Earth Peace, good will towards Men. We praiſe Thee, we bleſſe Thee, we worſhip Thee, we glorify Thee; and at this time, in a more <pb n="9" facs="tcp:155424:6"/>eſpeciall manner, with the higheſt expreſſions of our devouteſt hearts, we moſt humbly give thanks unto thee, for that thou haſt been pleaſed out of thine infinite goodneſſe, mercifully to look down upon the late low eſtate of our gratious Sove<g ref="char:EOLhyphen"/>raign; That thou haſt brought him from ſo much ſcornfull neglect, to appeare ſo terrible unto thoſe deſperate Rebells, who dare yet ſtand in Armes againſt him; That thou haſt bleſt him with many, and thoſe eminent Victories, and particularly, for thoſe great defeats which by his Armies thou haſt given unto his enimies in the North, and in the Weſt. O Lord God, heavenly King, God the Fa<g ref="char:EOLhyphen"/>ther Almighty, O Lord the only begotten Son Ieſus Chriſt, continue theſe thy favours to us, and perfect, we beſeech thee, that glorious work, the happy Peace of this Land, which none but thine own ſtrength can finiſh. And to that end, Thou that takeſt away the ſins of the World, take this foule ſin of Rebellion from us; Thou that ſitteſt at the right hand of God the Father, ſmite through the loynes of thoſe Sacrilegious men who have not ſpared at all to prophane thy houſe, and thy ſervice; ſo ſhall we ſtill bleſſe and magnify thy Name in the midſt of the great Congregation; ſo ſhall we thy ſervants never ceaſe to be ſtill pray<g ref="char:EOLhyphen"/>ſing thee and ſaying; Thou only, art holy, Thou only art the Lord, Thou only O Chriſt, with the holy Ghoſt, art moſt high in the glory of God the Father. To thee be all praiſe and honour, and glo<g ref="char:EOLhyphen"/>ry aſcribed, world without end. Amen.</p>
+         </div>
+         <div type="prayer">
+            <pb n="10" facs="tcp:155424:7"/>
+            <head>A Prayer to be ſaid during theſe times of Trouble.</head>
+            <p>O Lord our God, Mercifull and Gracious, and abundant in goodneſſe and truth, who doſt according to thy will in the Armies of heaven, and ruleſt over all the King<g ref="char:EOLhyphen"/>doms of the earth; in whoſe hand is power and might, and none is able to withſtand thy arme; we moſt vile ſinners approach before thy Throne of grace, bewailing thoſe manifold tranſgreſſions that have provoked thy wrath and indignation a<g ref="char:EOLhyphen"/>gainſt us. We know, O Lord, that affliction com<g ref="char:EOLhyphen"/>meth not forth of the duſt, neither doth trouble ſpring out of the ground, but it is thou that with rebukes doſt chaſten man for ſin. We confeſſe that we were a wealthy and a careleſſe Nation, &amp; our Land was as the garden of <hi>Eden;</hi> our delive<g ref="char:EOLhyphen"/>rances were great, and thy bleſſings were multi<g ref="char:EOLhyphen"/>plyed; we dwelt alone without feare of evill, and were become the envy of thoſe that were round about us. Peace was within our walls, and plente<g ref="char:EOLhyphen"/>ouſneſſe within our pallaces. But when we had ea<g ref="char:EOLhyphen"/>ten and were full, and had waxen fat, we kicked againſt thee our Maker, who hadſt done ſo great things for us: our heart was lifted up and forgot thee our God; and lightly eſteemed the rock of our ſalvation. We loathed the Manna that rained down upon us; our peace became a wearineſſe, &amp; <pb n="11" facs="tcp:155424:7"/>we ſnuffed at our happineſſe; we murmured a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes</hi> in our Tents, and made light of thy Anointed whom thou hadſt ſet over us. Therfore haſt thou recompenced our waies upon our own heads, and ſuffered our deſtruction to proceed from ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lves: our wickedneſſe doth correct us; our back-ſliding doth reprove us; and our iniquity is become our raine. Thou haſt broken upon us with a grievous breach: thy anger hath divided us, &amp; thy fury hath daſhed us one againſt another. Thou haſt mingled a ſpirit of perverſneſſe in the midſt of us; and made us a Nation void of counſell and un<g ref="char:EOLhyphen"/>derſtanding: in ſtead of peace thou haſt ſent bit<g ref="char:EOLhyphen"/>terneſſe, and haſt ſent a fire into our bowels; and it is kindled round about us. And now, O Lord, be<g ref="char:EOLhyphen"/>hold the ſword is drunk vvith our bloud, and vve are numbred to the ſlaughter: the high vvayes are unoccupied, and the Travailers goe through by<g ref="char:EOLhyphen"/>paths: our fields are divided, our inheritance is for a ſpoile, and out ſubſtance to the robbers. We are become are proach to the fooliſh people, and ſer<g ref="char:EOLhyphen"/>vants bear rule over us. The mean man is riſen a<g ref="char:EOLhyphen"/>gainſt the honourable, &amp; the fire out of the bram<g ref="char:EOLhyphen"/>ble devoureth the lofty Cedars; our Women are caſt out of their pleaſant places, and the roab is pul<g ref="char:EOLhyphen"/>led off from the aged; there is no reſpect had to the Prieſts, nor favour to the Elders. Thy Sanctu<g ref="char:EOLhyphen"/>aries, even the excellencie of thy ſtrength, are pro<g ref="char:EOLhyphen"/>faned, and they have defiled the places where thy honour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d welleth, and yet ſtill the ſeat of wicked<g ref="char:EOLhyphen"/>neſſe frameth miſchiefe by a Law; and it turneth <pb n="12" facs="tcp:155424:8"/>judgement backward, and biddeth juſtice ſtand a farre off; and deviſeth deceitfull matters againſt thoſe that are quiet in the Land. Nay there is a lying Spirit gone out into the mouth of the Pro<g ref="char:EOLhyphen"/>phets; they prophecy falſely, and the People de<g ref="char:EOLhyphen"/>light to have it ſo, and they ſtrengthen the hands of evil doers, that they turne not back from their wickedneſſe. Thus are we covered with a cloud in thine anger, and our beauty is caſt down to the ground. But, O Lord, ſhall thine indignation be powred out for ever? ſhall thy jealouſy burne like fire? O paſſe by the tranſgreſſions of the remnant of thine Heritage, and take away the rebuke of thy People. O remove from us reproach and contempt and ſtrengthen the ſpoiled againſt the deſtroyers. Bow down thine eare, and conſider the oppreſſion of the poor, the ſighing of the needy, the groaning of the Priſoners, that are faſt bound in miſery and iron. Lift up thy ſelf becauſe of the rage of thine Adverſaries: conſider the deſolation they have made in thy Courts, and all that the enemy hath done wickedly in thy Sanctuary. And yet ſtill they are compaſſed with pride, and cloath themſelves with violence as with a garment. How long, O Lord, ſhall they boaſt themſelves in miſchief? how long ſhall they decree unrighteous decrees, and write grievouſneſſe which they have preſcribed? O make not a full end with us, but correct us in mercy, though thou leave us not altogether un<g ref="char:EOLhyphen"/>puniſhed. Help us, O Lord our God, for we reſt on thee, and under the ſhadow of thy wings ſhall <pb n="13" facs="tcp:155424:8"/>be our refuge untill this Tyranny be over paſt. Diſappoynt therefore the devices of the crafty; let not the Rebellious exalt themſelves any more, and ſuffer not the Tabernacles of the Robbers to proſper. And as thou haſt begunne to ſhew thy ſer<g ref="char:EOLhyphen"/>vants thy greatneſſe, and thy mighty hand: ſo con<g ref="char:EOLhyphen"/>tinue thy marvailous loving kindnes to thoſe who put their truſt in thee. The Battaile is thine, O Lord, thou haſt preſerved us from the Arm of fleſh; yea it is thou that haſt wrought all our works in us, even when there was no might againſt that great Company that came againſt us. When we vvere few in number, and there was none to help us, then thine ovvn Arm brought ſalvation, and thy righteouſneſſe ſuſtained us. O perfect there<g ref="char:EOLhyphen"/>fore thy handy vvork. Give ſalvation to our King, and deliver <hi>Charles</hi> thy ſervant from the perill of the ſword, bind up His ſoule in the bundle of life, gird Him with ſtrength to the battaile, contend with thoſe who contend with Him, ſubdue thou the people under Him, and ſuffer no weapon for<g ref="char:EOLhyphen"/>med againſt him to proſper. O deliver him at length from the ſtrivings of the people, and lift up his head above his Enemies round about him, give him the ſhield of thy ſalvation, &amp; let thy gen<g ref="char:EOLhyphen"/>tleneſſe make him great: put a ſtop at laſt to the madneſſe of the people: ſay to the deſtroying ſword, it is now enough: ſend us a ſeaſonable and bleſſed calme: viſit us with the joy of thy coun<g ref="char:EOLhyphen"/>tenance, and make us glad according to the dayes wherein thou haſt afflicted us. O reſtore to us
+<pb n="14" facs="tcp:155424:9"/>our ſolemne aſſemblies: bring us back into thy Courts to praiſe thee, and let us once more wor<g ref="char:EOLhyphen"/>ſhip thee in the beauty of thy holineſſe. Save us O Lord, from enemies, and from the hands of all that hate us. That ſo we may ſerve thee without feare, living a quiet and a peaceable life, in all Godlineſſe and honeſty, looking for the bleſ<g ref="char:EOLhyphen"/>ſed appearance of the great God, and our Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt. To whom with thee and the holy Spirit, be all honour and praiſe, world with<g ref="char:EOLhyphen"/>out end. AMEN.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
